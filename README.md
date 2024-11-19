@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OlgaWdz
+- 👋 Hi, I’m Olha
 - 🌱 I’m currently learning testing
 
 <!---
